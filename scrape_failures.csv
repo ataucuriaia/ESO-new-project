@@ -1,0 +1,84 @@
+Org Name,Website URL,scrape_error
+Commonwealth Bio Accelerator,https://cvillebiohub.org/accelerator/,HTTP 307
+iTHRIV Pilot Translational and Clinical Studies Program,https://ithriv.org/pilot,HTTP 404
+Ivy Biomedical Innovation Fund ,https://research.virginia.edu/initiatives/translational-research/ivy-biomedical-innovation-fund,HTTP 403
+UVA Strategic Investment Fund,https://sif.virginia.edu/,HTTP 403
+W.H. Coulter Foundation,https://www.coulterfound.org,"Connection error: HTTPSConnectionPool(host='www.coulterfound.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.coulterfound.org', port=443): Failed to resolve 'www.coulterfound.org' ([Errno 11001] getaddrinfo failed)""))"
+Belarusian Republican Foundation for Fundamental Research,,Missing URL
+CvilleBioHub,https://www.cvillebiohub.org,HTTP 307
+Minority Business Alliance,https://www.cvillechamber.com/mba/,HTTP 404
+Luminosity Wearables,,Missing URL
+University of Virginia's 40Core Program,https://engineering.virginia.edu/about-our-school/industry-engagement,HTTP 403
+Embori Group LLC,https://www.embori.com,"Connection error: HTTPSConnectionPool(host='www.embori.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.embori.com'. (_ssl.c:1017)"")))"
+UVA Engineering Research Innovation Awards,https://engineering.virginia.edu/offices-programs/office-research-and-innovation/research-development,HTTP 403
+UVA Link Lab,https://engineering.virginia.edu/labs-groups/link-lab,HTTP 403
+University of Virginia School of Engineering and Applied Science,https://engineering.virginia.edu,HTTP 403
+Department of Justice,https://www.justice.gov,HTTP 401
+The Medicines Company,https://www.themedicinescompany.com,HTTP 404
+"Medtronic Vascular, Inc.",https://www.medtronic.co,"Connection error: HTTPSConnectionPool(host='www.medtronic.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.medtronic.co'. (_ssl.c:1017)"")))"
+Geothermal Lithium Extraction Prize,https://www.energy.gov/eere/geothermal/geothermal-lithium-extraction-prize,HTTP 404
+UVA Office for Sustainability,https://sustainability.virginia.edu,HTTP 403
+Air Force Office of Scientific Research,https://www.afrl.af.mil/AFOSR/,HTTP 403
+U.S. Department of Defense,https://www.defense.gov/,HTTP 403
+U.S. Department of Transportation,https://www.transportation.gov/,HTTP 403
+Federal Highway Administration,https://highways.dot.gov/,HTTP 403
+Mary Morton Parsons Foundation,https://marymortonparsons.org,"Connection error: HTTPSConnectionPool(host='marymortonparsons.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='marymortonparsons.org', port=443): Failed to resolve 'marymortonparsons.org' ([Errno 11001] getaddrinfo failed)""))"
+GRESB,https://gresb.com,HTTP 403
+Enterprise Community Partners,https://www.enterprisecommunity.org,HTTP 403
+Joint Call to Action,https://healthybuiltenvironment.org,"Connection error: HTTPSConnectionPool(host='healthybuiltenvironment.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='healthybuiltenvironment.org', port=443): Failed to resolve 'healthybuiltenvironment.org' ([Errno 11001] getaddrinfo failed)""))"
+Natcore Solar,https://www.natcoresolar.com,Non-HTML response or empty HTML
+Office of Energy Efficiency & Renewable Energy,https://www.energy.gov/eere/office-energy-efficiency-and-renewable-energy?nrg_redirect=467275,HTTP 404
+UVA Cancer Center Accelerating Innovation Fund,https://med.virginia.edu/cancer-center/accelerating-innovation-fund/,HTTP 404
+International Myeloma Foundation,https://www.myeloma.org,HTTP 403
+UVA Office of the Vice President for Research,https://research.virginia.edu,HTTP 403
+Wu Tsai Human Performance Alliance,https://wuhsaialliance.org,"Connection error: HTTPSConnectionPool(host='wuhsaialliance.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='wuhsaialliance.org', port=443): Failed to resolve 'wuhsaialliance.org' ([Errno 11001] getaddrinfo failed)""))"
+Biomedical Innovations Fund UVA,"https://research.virginia.edu/initiatives/translational-research/ivy-biomedical-innovation-fund#:~:text=The%20Ivy%20Biomedical%20Innovation%20Fund,K%20each%20for%2012%20months.",HTTP 403
+Virginia Brain Institute,https://braininstitute.as.virginia.edu,"Connection error: HTTPSConnectionPool(host='braininstitute.as.virginia.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='braininstitute.as.virginia.edu', port=443): Failed to resolve 'braininstitute.as.virginia.edu' ([Errno 11001] getaddrinfo failed)""))"
+Ministry of Science and Higher Education of the Russian Federation,,Missing URL
+Natural Science Foundation of Hubei Province,,Missing URL
+National Nuclear Security Administration,https://www.nnsa.doe.gov/,"Connection error: HTTPSConnectionPool(host='www.nnsa.doe.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nnsa.doe.gov'. (_ssl.c:1017)"")))"
+U.S. Navy,https://www.navy.mil/,HTTP 403
+Intel,https://www.intel.com/,HTTP 403
+SpiderCloud Wireless, https://www.spidercloud.com/,"Connection error: HTTPSConnectionPool(host='www.spidercloud.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))"
+Xsense.ai,,Missing URL
+The Hartwell Foundation,https://www.hartwellfoundation.org/,"Connection error: HTTPSConnectionPool(host='www.hartwellfoundation.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.hartwellfoundation.org', port=443): Failed to resolve 'www.hartwellfoundation.org' ([Errno 11001] getaddrinfo failed)""))"
+UVA Comprehensive Cancer Center,https://cancer.uvahealth.com,"Connection error: HTTPSConnectionPool(host='cancer.uvahealth.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))"
+Virginia Department of Social Services,https://dss.virginia.gov,"Connection error: HTTPSConnectionPool(host='dss.virginia.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))"
+Albemarle County,https://www.albemarle.org,HTTP 403
+Cartan Capital,https://cartancapital.com,HTTP 403
+Virginia Department of Education ,https://www.doe.virginia.gov,HTTP 403
+Center for Advanced Study of Teaching and Learning,https://education.virginia.edu/research-initiatives/research-centers-labs/center-advanced-study-teaching-and-learning,HTTP 403
+Cytiva Biosciences,https://www.cytiva.com/,HTTP 403
+Smart City Works,https://smartcityworks.org,"Connection error: HTTPSConnectionPool(host='smartcityworks.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1017)')))"
+Virginia Growth Alliance,https://www.vagrowth.com/,"Connection error: HTTPSConnectionPool(host='www.vagrowth.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.vagrowth.com', port=443): Failed to resolve 'www.vagrowth.com' ([Errno 11001] getaddrinfo failed)""))"
+Arlington Economic Development (AED),https://www.arlingtoneconomicdevelopment.com,HTTP 403
+Norfolk Department of Development,https://www.norfolk.gov/Development,HTTP 404
+Blacksburg Partnership,https://www.blacksburgpartnership.org,"Connection error: HTTPSConnectionPool(host='www.blacksburgpartnership.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))"
+Richmond Technology Council (RichTech),https://www.richtech.com,"Connection error: HTTPSConnectionPool(host='www.richtech.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))"
+Virginia Council on Higher Education (SCHEV),https://www.schev.edu/,HTTP 403
+Virginia Museum of Fine Arts (VMFA) - Corporate Partnerships,https://www.vmfa.museum/support/corporate-partnership/,HTTP 404
+Wolf Trap Foundation for the Performing Arts - Corporate Partners,https://www.wolftrap.org/support/corporations.aspx,HTTP 404
+"Kennedy Center (DC, serving VA)",https://www.kennedy-center.org,HTTP 403
+Virginia Hispanic Chamber of Commerce,https://www.virginiahispanicchamber.com,HTTP 403
+Halifax County Economic Development Authority,https://halifaxcountyva.gov/economic-development/,HTTP 404
+Pittsylvania County Economic Development,https://www.pittsylvaniacountyva.gov/business/economic-development,HTTP 404
+Danville Office of Economic Development,https://www.danville-va.gov/208/Economic-Development,HTTP 404
+Virginia Economic Developers Association (VEDA),https://www.goveda.org/,HTTP 403
+Tidewater Community College (TCC) - Center for Workforce Solutions,https://tcc.edu/programs/workforce/,HTTP 403
+Piedmont Virginia Community College (PVCC) - Workforce Services,https://www.pvcc.edu/workforce,"Connection error: HTTPSConnectionPool(host='www.pvcc.edu', port=443): Max retries exceeded with url: /workforce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))"
+Dabney S. Lancaster Community College (now Mountain Gateway Community College) - Workforce Development,https://mgcc.edu/workforce-solutions/,"Connection error: HTTPSConnectionPool(host='mgcc.edu', port=443): Max retries exceeded with url: /workforce-solutions/ (Caused by NameResolutionError(""HTTPSConnection(host='mgcc.edu', port=443): Failed to resolve 'mgcc.edu' ([Errno 11001] getaddrinfo failed)""))"
+Rappahannock Community College - Workforce Development,https://www.rappahannock.edu/explore-programs/programs/workforce-skills-training.html,HTTP 404
+City of Franklin Economic Development,https://www.franklinva.com/government/departments/economic-development/,"Connection error: HTTPSConnectionPool(host='www.franklinva.com', port=443): Max retries exceeded with url: /government/departments/economic-development/ (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.franklinva.com'. (_ssl.c:1017)"")))"
+King George County Economic Development,https://www.kinggeorgecountyva.gov/212/Economic-Development,HTTP 404
+Westmoreland County Economic Development,https://www.westmoreland-county.org/ed,HTTP 404
+Prince Edward County Economic Development,https://www.co.prince-edward.va.us/Economic-Development,HTTP 403
+Albemarle County Department of Economic Development,https://www.enablealbemarle.org/,HTTP 403
+City of Staunton Economic Development,https://www.stauntonbusiness.com/,HTTP 403
+City of Winchester Economic Development,https://www.developwinchesterva.com/contact/financial/,HTTP 403
+WeFunder,https://wefunder.com,HTTP 403
+Rural Business Development Grant Program (USDA Rural Development),https://www.rd.usda.gov/programs-services/business-programs/rural-business-development-grants,Timeout after 20s
+William & Mary - Alan B. Miller Entrepreneurship Center,https://mason.wm.edu/centers/miller/,HTTP 404
+Getting Started with INDs / IDEs,https://www.research.chop.edu/investigational-new-drug-and-device-support-program/getting-started-with-inds-ides,HTTP 403
+Investigational New Drug (IND) Submission Support,https://www.criver.com/products-services/safety-assessment/ind-enabling-studies/investigational-new-drug-ind-submission-support,HTTP 403
+University Programs for Entrepreneurial Opportunities,https://www.michiganbusiness.org/services/entrepreneurial-opportunity/university-programs/,HTTP 403
+Licensing,https://www.nsa.gov/Research/Technology-Transfer-Program/Licensing/,HTTP 403
